@@ -29,6 +29,36 @@ season,round,raceName,circuitId,number,position,points,driverId,constructorId,gr
 2021,14,Italian Grand Prix,monza,99,8,0,giovinazzi,alfa,10,18,Finished
 2021,14,Italian Grand Prix,monza,11,9,0,perez,red_bull,9,18,Finished
 2021,14,Italian Grand Prix,monza,18,10,0,stroll,aston_martin,12,18,Finished
+2021,14,Italian Grand Prix,monza,14,11,0,alonso,alpine,13,18,Finished
+2021,14,Italian Grand Prix,monza,5,12,0,vettel,aston_martin,11,18,Finished
+2021,14,Italian Grand Prix,monza,31,13,0,ocon,alpine,14,18,Finished
+2021,14,Italian Grand Prix,monza,6,14,0,latifi,williams,16,18,Finished
+2021,14,Italian Grand Prix,monza,63,15,0,russell,williams,15,18,Finished
+2021,14,Italian Grand Prix,monza,22,16,0,tsunoda,alphatauri,17,18,Finished
+2021,14,Italian Grand Prix,monza,9,17,0,mazepin,haas,20,18,Finished
+2021,14,Italian Grand Prix,monza,88,18,0,kubica,alfa,19,18,Finished
+2021,14,Italian Grand Prix,monza,47,19,0,mick_schumacher,haas,18,18,Finished
+2021,14,Italian Grand Prix,monza,10,20,0,gasly,alphatauri,6,0,Accident
+2021,19,São Paulo Grand Prix,interlagos,77,1,3,bottas,mercedes,2,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,33,2,2,max_verstappen,red_bull,1,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,55,3,1,sainz,ferrari,5,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,11,4,0,perez,red_bull,3,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,44,5,0,hamilton,mercedes,20,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,4,6,0,norris,mclaren,7,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,16,7,0,leclerc,ferrari,6,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,10,8,0,gasly,alphatauri,4,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,31,9,0,ocon,alpine,10,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,5,10,0,vettel,aston_martin,11,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,3,11,0,ricciardo,mclaren,8,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,14,12,0,alonso,alpine,9,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,99,13,0,giovinazzi,alfa,14,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,18,14,0,stroll,aston_martin,15,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,22,15,0,tsunoda,alphatauri,12,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,6,16,0,latifi,williams,16,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,63,17,0,russell,williams,17,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,7,18,0,raikkonen,alfa,13,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,47,19,0,mick_schumacher,haas,18,24,Finished
+2021,19,São Paulo Grand Prix,interlagos,9,20,0,mazepin,haas,19,24,Finished
 2022,4,Emilia Romagna Grand Prix,imola,1,1,8,max_verstappen,red_bull,1,21,Finished
 2022,4,Emilia Romagna Grand Prix,imola,16,2,7,leclerc,ferrari,2,21,Finished
 2022,4,Emilia Romagna Grand Prix,imola,11,3,6,perez,red_bull,7,21,Finished
@@ -59,3 +89,33 @@ season,round,raceName,circuitId,number,position,points,driverId,constructorId,gr
 2022,11,Austrian Grand Prix,red_bull_ring,44,8,1,hamilton,mercedes,9,23,Finished
 2022,11,Austrian Grand Prix,red_bull_ring,47,9,0,mick_schumacher,haas,7,23,Finished
 2022,11,Austrian Grand Prix,red_bull_ring,77,10,0,bottas,alfa,12,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,4,11,0,norris,mclaren,15,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,3,12,0,ricciardo,mclaren,16,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,18,13,0,stroll,aston_martin,17,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,24,14,0,zhou,alfa,18,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,10,15,0,gasly,alphatauri,10,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,23,16,0,albon,williams,11,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,22,17,0,tsunoda,alphatauri,14,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,6,18,0,latifi,williams,19,23,Finished
+2022,11,Austrian Grand Prix,red_bull_ring,5,19,0,vettel,aston_martin,20,21,Collision damage
+2022,11,Austrian Grand Prix,red_bull_ring,14,20,0,alonso,alpine,8,0,Electrical
+2022,21,Brazilian Grand Prix,interlagos,63,1,8,russell,mercedes,3,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,55,2,7,sainz,ferrari,5,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,44,3,6,hamilton,mercedes,8,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,1,4,5,max_verstappen,red_bull,2,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,11,5,4,perez,red_bull,9,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,16,6,3,leclerc,ferrari,10,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,4,7,2,norris,mclaren,4,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,20,8,1,kevin_magnussen,haas,1,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,5,9,0,vettel,aston_martin,13,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,10,10,0,gasly,alphatauri,12,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,3,11,0,ricciardo,mclaren,14,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,47,12,0,mick_schumacher,haas,20,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,24,13,0,zhou,alfa,17,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,77,14,0,bottas,alfa,18,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,22,15,0,tsunoda,alphatauri,19,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,18,16,0,stroll,aston_martin,15,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,31,17,0,ocon,alpine,6,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,14,18,0,alonso,alpine,7,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,6,19,0,latifi,williams,16,24,Finished
+2022,21,Brazilian Grand Prix,interlagos,23,20,0,albon,williams,11,12,Retired
